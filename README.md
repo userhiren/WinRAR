@@ -2,6 +2,7 @@
 # WinRAR Lifetime License key </br>
 [Click here License](https://github.com/Kamrulofficial/WinRAR/blob/main/rarreg.key) </br>
 Step 1: Create a New Text Document file Name rarreg.key </br>
+<br>
 Step 2: Paste into the file the raw content of this gist </br>
 ```python 
 RAR registration data
@@ -17,11 +18,12 @@ b41bcf56929486b8bcdac33d50ecf773996052598f1f556defffbd
 aef69d48c864bcd72d15163897773d314187f6a9af350808719796
 ----------------------------------------------------------------------------------------------------------
 ```
-Step 3: Go to Winrar install directory by default => 
+Step 3: Go to WinRAR install directory by default => 
 ```python 
 c:\ProgramFiles\WinRAR\ 
 ```
 Step 4: Paste the rarreg.key into WinRAR directory </br>
+<br>
 Step 5: Enjoy </br>
 
 # Disclaimer: You should pay for your software.
