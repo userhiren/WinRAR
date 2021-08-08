@@ -1,6 +1,6 @@
 # WinRAR
 # WinRAR Lifetime License key <br>
-[Click here License](https://github.com/Kamrulofficial/WinRAR/blob/main/rarreg.key) </br>
+[Click here License](https://github.com/Kamrulofficial/WinRAR/blob/main/rarreg.key) <br>
 Step 1: Create a New Text Document file Name rarreg.key <br>
 <br>
 Step 2: Paste into the file the raw content of this gist <br>
